@@ -19,7 +19,7 @@ const Services = () => {
           <Image src={Img1} alt="Pic" />
           <h2 className="text-[25px] font-bold uppercase">Wp developing</h2>
           <p>
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser cant evening heaven
             isnot bearing tree
           </p>
         </div>
@@ -27,7 +27,7 @@ const Services = () => {
           <Image src={Img2} alt="Pic" />
           <h2 className="text-[25px] font-bold uppercase">UI/ux design</h2>
           <p>
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser cant evening heaven
             isnot bearing tree
           </p>
         </div>
@@ -35,7 +35,7 @@ const Services = () => {
           <Image src={Img3} alt="Pic" />
           <h2 className="text-[25px] font-bold uppercase">Web design</h2>
           <p>
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser cant evening heaven
             isnot bearing tree
           </p>
         </div>
@@ -43,7 +43,7 @@ const Services = () => {
           <Image src={Img4} alt="Pic" />
           <h2 className="text-[25px] font-bold uppercase">seo optimize</h2>
           <p>
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser cant evening heaven
             isnot bearing tree
           </p>
         </div>
