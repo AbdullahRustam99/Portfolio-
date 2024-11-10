@@ -1,13 +1,13 @@
 import React from "react";
-import Header from "@/Components/Header";
-import About from "@/Components/About";
-import Card from "@/Components/Crad"
-import Footer from "@/Components/Footer";
+import Header from "@/app/Components/Header";
+import About from "@/app/Components/About";
+import Card from "@/app/Components/Crad";
+import Footer from "@/app/Components/Footer";
 const Home = () => {
   return (
     <>
       <Header />
-      <Card text="ABOUT" dir="Home - About"/>
+      <Card text="ABOUT" dir="Home - About" />
       <About />
       <Footer />
     </>

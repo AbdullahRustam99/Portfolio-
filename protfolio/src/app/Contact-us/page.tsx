@@ -1,13 +1,13 @@
 import React from "react";
-import Header from "@/Components/Header";
-import About from "@/Components/About";
-import Card from "@/Components/Crad";
-import Footer from "@/Components/Footer";
+import Header from "@/app/Components/Header";
+import About from "@/app/Components/About";
+import Card from "@/app/Components/Crad";
+import Footer from "@/app/Components/Footer";
 import Image from "next/image";
 import Homes from "@/img/Home.jpg";
 import Call from "@/img/Cal.jpg";
 import Email from "@/img/Email.jpg";
-import Buttons from "@/Components/Buttons";
+import Buttons from "@/app/Components/Buttons";
 
 const Home = () => {
   return (

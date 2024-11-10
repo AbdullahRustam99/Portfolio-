@@ -1,5 +1,5 @@
 import React from "react";
-import Buttons from "@/Components/Buttons";
+import Buttons from "@/app/Components/Buttons";
 import Image from "next/image";
 import Img1 from "@/img/image.png";
 import Img2 from "@/img/image copy.png";

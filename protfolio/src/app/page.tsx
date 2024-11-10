@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "@/Components/Header";
-import Buttons from "@/Components/Buttons";
+import Header from "@/app/Components/Header";
+import Buttons from "@/app/Components/Buttons";
 import Image from "next/image";
 import Pic from "@/img/My Pic.png";
-import About from "@/Components/About";
-import Services from "@/Components/Servcies";
-import Project from "@/Components/Projects";
-import Footer from "@/Components/Footer"
+import About from "@/app/Components/About";
+import Services from "@/app/Components/Servcies";
+import Project from "@/app/Components/Projects";
+import Footer from "@/app/Components/Footer";
 const Home = () => {
   return (
     <>

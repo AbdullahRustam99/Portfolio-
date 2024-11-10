@@ -1,5 +1,5 @@
 import React from "react";
-import Buttons from "@/Components/Buttons";
+import Buttons from "@/app/Components/Buttons";
 import Image from "next/image";
 import Aboust from "@/img/About.png";
 const About = () => {
@@ -21,8 +21,8 @@ const About = () => {
           every line of code has a purpose, contributing to a seamless and
           impactful digital experience. Driven by a commitment to quality, I
           focus on building websites that are visually captivating, responsive,
-          and optimized for performance. Lets create something amazing
-          together, where design meets functionality in perfect harmony.
+          and optimized for performance. Lets create something amazing together,
+          where design meets functionality in perfect harmony.
         </p>
         <Buttons
           text="Download Cv"
