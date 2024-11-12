@@ -13,7 +13,7 @@ const About = () => {
           Lets
           <br /> Interduce About <br /> Myself
         </h2>
-        <p className="w-[470px] max-sm:w-[370px]">
+        <p className="w-[470px] max-sm:w-[340px]">
           As a passionate web developer, I bring creativity and precision to
           each project. My expertise spans front-end development, where I turn
           complex ideas into intuitive user experiences, and back-end
