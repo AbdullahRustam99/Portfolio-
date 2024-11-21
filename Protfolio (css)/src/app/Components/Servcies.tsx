@@ -49,7 +49,7 @@ const Services = () => {
           <Image
           src={Img4}
           alt="SEO Optimize" className="service-image" />
-          <h2 className="service-name">SEO Optimize</h2>
+          <h2 className="service-name">SEO  Optimize</h2>
           <p className="service-text">
             Creeping for female light years that lesser can not evening heaven
             isnot bearing tree
