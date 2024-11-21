@@ -21,7 +21,7 @@ const Services = () => {
           alt="WP Developing" className="service-image" />
           <h2 className="service-name">WP Developing</h2>
           <p className="service-text">
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser can not evening heaven
             isnot bearing tree
           </p>
         </div>
@@ -31,7 +31,7 @@ const Services = () => {
           alt="UI/UX Design" className="service-image" />
           <h2 className="service-name">UI/UX Design</h2>
           <p className="service-text">
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser can not evening heaven
             isnot bearing tree
           </p>
         </div>
@@ -41,7 +41,7 @@ const Services = () => {
           alt="Web Design" className="service-image" />
           <h2 className="service-name">Web Design</h2>
           <p className="service-text">
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser can not evening heaven
             isnot bearing tree
           </p>
         </div>
@@ -51,7 +51,7 @@ const Services = () => {
           alt="SEO Optimize" className="service-image" />
           <h2 className="service-name">SEO Optimize</h2>
           <p className="service-text">
-            Creeping for female light years that lesser can't evening heaven
+            Creeping for female light years that lesser can not evening heaven
             isnot bearing tree
           </p>
         </div>

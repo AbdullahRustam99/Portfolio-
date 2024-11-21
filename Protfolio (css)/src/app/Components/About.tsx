@@ -10,7 +10,7 @@ const About = () => {
       </div>
       <div className="about-content">
         <h2 className="about-heading">
-          Let's <br />
+          Let <br />
           Introduce About <br />
           Myself
         </h2>
@@ -22,7 +22,7 @@ const About = () => {
           every line of code has a purpose, contributing to a seamless and
           impactful digital experience. Driven by a commitment to quality, I
           focus on building websites that are visually captivating, responsive,
-          and optimized for performance. Let's create something amazing
+          and optimized for performance. Let create something amazing
           together, where design meets functionality in perfect harmony.
         </p>
         <a href="path/to/cv.pdf" className="download-button">
