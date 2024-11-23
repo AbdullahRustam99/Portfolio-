@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <Header />
-      <Card text="Projects" dir="Home - Projects" />
+      <Card text="Projects" dir="Home - Projects " />
       <Projects />
       <Footer />
     </>
